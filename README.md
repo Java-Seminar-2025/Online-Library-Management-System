@@ -12,4 +12,4 @@
 
 -Recommendation system: Similar books by category/tags/author. Show top borrowed books.
 
-Administartion and settings: Admin can create/edit/disable users, assign roles. Controls settings tied to policies (loans, maximum holding duration).
+-Administartion and settings: Admin can create/edit/disable users, assign roles. Controls settings tied to policies (loans, maximum holding duration).
